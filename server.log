@@ -1,0 +1,1164 @@
+2019-12-24 00:22:26 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 00:22:28 [INFO] Loading properties
+2019-12-24 00:22:28 [WARNING] server.properties does not exist
+2019-12-24 00:22:28 [INFO] Generating new properties file
+2019-12-24 00:22:28 [INFO] Default game type: SURVIVAL
+2019-12-24 00:22:28 [INFO] Generating keypair
+2019-12-24 00:22:29 [INFO] Starting Minecraft server on *:25565
+2019-12-24 00:22:31 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2019-12-24 00:22:31 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2019-12-24 00:22:31 [INFO] Preparing level "world"
+2019-12-24 00:22:33 [INFO] Preparing start region for level 0
+2019-12-24 00:22:34 [INFO] Preparing spawn area: 4%
+2019-12-24 00:22:35 [INFO] Preparing spawn area: 8%
+2019-12-24 00:22:36 [INFO] Preparing spawn area: 15%
+2019-12-24 00:22:37 [INFO] Preparing spawn area: 29%
+2019-12-24 00:22:38 [INFO] Preparing spawn area: 47%
+2019-12-24 00:22:39 [INFO] Preparing spawn area: 64%
+2019-12-24 00:22:40 [INFO] Preparing spawn area: 82%
+2019-12-24 00:22:41 [INFO] Preparing spawn area: 97%
+2019-12-24 00:22:42 [INFO] Done (10.234s)! For help, type "help" or "?"
+2019-12-24 00:23:33 [INFO] Stopping server
+2019-12-24 00:24:36 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 00:24:37 [INFO] Loading properties
+2019-12-24 00:24:37 [INFO] Default game type: SURVIVAL
+2019-12-24 00:24:37 [INFO] Generating keypair
+2019-12-24 00:24:38 [INFO] Starting Minecraft server on *:25565
+2019-12-24 00:24:38 [INFO] Preparing level "world"
+2019-12-24 00:24:39 [INFO] Preparing start region for level 0
+2019-12-24 00:24:40 [INFO] Preparing spawn area: 61%
+2019-12-24 00:24:40 [INFO] Done (1.732s)! For help, type "help" or "?"
+2019-12-24 00:27:14 [INFO] Ultron_12[/127.0.0.1:43194] logged in with entity id 122 at (207.5, 67.0, 250.5)
+2019-12-24 00:27:15 [INFO] Ultron_12 joined the game
+2019-12-24 00:27:29 [INFO] Opped Ultron_12
+2019-12-24 00:27:32 [INFO] [Ultron_12: Set own game mode to Creative Mode]
+2019-12-24 00:28:15 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 00:28:30 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 00:36:19 [INFO] Stopping server
+2019-12-24 00:36:26 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 00:36:27 [INFO] Loading properties
+2019-12-24 00:36:27 [INFO] Default game type: SURVIVAL
+2019-12-24 00:36:27 [INFO] Generating keypair
+2019-12-24 00:36:28 [INFO] Starting Minecraft server on *:25565
+2019-12-24 00:36:28 [INFO] Preparing level "world"
+2019-12-24 00:36:29 [INFO] Preparing start region for level 0
+2019-12-24 00:36:30 [INFO] Preparing spawn area: 56%
+2019-12-24 00:36:30 [INFO] Done (1.673s)! For help, type "help" or "?"
+2019-12-24 00:37:00 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 00:37:56 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 00:38:13 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 00:38:14 [INFO] Loading properties
+2019-12-24 00:38:14 [INFO] Default game type: SURVIVAL
+2019-12-24 00:38:14 [INFO] Generating keypair
+2019-12-24 00:38:15 [INFO] Starting Minecraft server on *:25565
+2019-12-24 00:38:15 [INFO] Preparing level "world"
+2019-12-24 00:38:16 [INFO] Preparing start region for level 0
+2019-12-24 00:38:17 [INFO] Preparing spawn area: 6%
+2019-12-24 00:38:18 [INFO] Preparing spawn area: 15%
+2019-12-24 00:38:19 [INFO] Preparing spawn area: 26%
+2019-12-24 00:38:20 [INFO] Preparing spawn area: 40%
+2019-12-24 00:38:21 [INFO] Preparing spawn area: 53%
+2019-12-24 00:38:22 [INFO] Preparing spawn area: 65%
+2019-12-24 00:38:23 [INFO] Preparing spawn area: 77%
+2019-12-24 00:38:24 [INFO] Preparing spawn area: 93%
+2019-12-24 00:38:24 [INFO] Done (9.091s)! For help, type "help" or "?"
+2019-12-24 00:38:28 [INFO] Ultron_12[/127.0.0.1:43274] logged in with entity id 650 at (-216.5, 70.0, 251.5)
+2019-12-24 00:38:28 [INFO] Ultron_12 joined the game
+2019-12-24 00:38:34 [INFO] [Ultron_12: Set own game mode to Creative Mode]
+2019-12-24 00:40:51 [INFO] [Ultron_12: Set own game mode to Survival Mode]
+2019-12-24 00:41:27 [INFO] [Ultron_12: Set own game mode to Creative Mode]
+2019-12-24 00:43:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 00:43:03 [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:663)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:276)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:587)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+Caused by: java.lang.NoSuchFieldError: adjacentTreeBlocks
+	at mods.SmokeMonster.BanyanLeaves.func_71847_b(BanyanLeaves.java:143)
+	at net.minecraft.world.WorldServer.func_72893_g(WorldServer.java:440)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:199)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:657)
+	... 4 more
+2019-12-24 00:43:03 [SEVERE] This crash report has been saved to: /home/alexis/Documents/Server/Minecraft/Forge/./crash-reports/crash-2019-12-24_00.43.03-server.txt
+2019-12-24 00:43:32 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 00:43:57 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 00:44:00 [INFO] Stopping server
+2019-12-24 00:51:39 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 00:51:41 [INFO] MCA: File not found: /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ModProps.properties. Creating new mod properties file...
+2019-12-24 00:51:41 [INFO] MCA: Mod properties successfully saved.
+2019-12-24 00:51:41 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-24 00:51:41 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-24 00:51:41 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-24 00:51:42 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 00:51:42 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 00:51:42 [INFO] MCA: Language ID: en_US
+2019-12-24 00:51:42 [INFO] MCA: Loading English...
+2019-12-24 00:51:42 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-24 00:51:42 [INFO] Loading properties
+2019-12-24 00:51:42 [INFO] Default game type: SURVIVAL
+2019-12-24 00:51:42 [INFO] Generating keypair
+2019-12-24 00:51:42 [INFO] Starting Minecraft server on *:25565
+2019-12-24 00:51:42 [INFO] Preparing level "world"
+2019-12-24 00:51:43 [WARNING] Unable to find spawn biome
+2019-12-24 00:51:48 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-24 00:51:48 [INFO] MCA: Creating folder /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world
+2019-12-24 00:51:48 [INFO] Preparing start region for level 0
+2019-12-24 00:51:49 [INFO] Preparing spawn area: 13%
+2019-12-24 00:51:50 [INFO] Preparing spawn area: 28%
+2019-12-24 00:51:51 [INFO] Preparing spawn area: 41%
+2019-12-24 00:51:52 [INFO] Preparing spawn area: 55%
+2019-12-24 00:51:53 [INFO] Preparing spawn area: 73%
+2019-12-24 00:51:54 [INFO] Preparing spawn area: 92%
+2019-12-24 00:51:54 [INFO] Done (12.006s)! For help, type "help" or "?"
+2019-12-24 00:51:54 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-24 00:52:53 [INFO] Ultron_12[/127.0.0.1:43556] logged in with entity id 7402 at (-622.5, 64.0, 299.5)
+2019-12-24 00:52:53 [INFO] Ultron_12 joined the game
+2019-12-24 00:52:54 [INFO] MCA: Created new properties folder for the world 'world'.
+2019-12-24 00:52:54 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:52:54 [INFO] MCA: Saved new world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 00:52:55 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:52:55 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:52:55 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:52:55 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:52:56 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:52:56 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:52:56 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:52:56 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:53:01 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:53:01 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:53:10 [SEVERE] Reached end of stream for /190.176.158.122
+2019-12-24 00:53:10 [INFO] zionsXP [/190.176.158.122:50258] lost connection
+2019-12-24 00:53:19 [SEVERE] Reached end of stream for /190.176.158.122
+2019-12-24 00:53:19 [INFO] zionsXP [/190.176.158.122:50262] lost connection
+2019-12-24 00:53:35 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:53:35 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:53:35 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 00:53:42 [SEVERE] Reached end of stream for /190.176.158.122
+2019-12-24 00:53:42 [INFO] zionsXP [/190.176.158.122:50264] lost connection
+2019-12-24 00:53:46 [INFO] [Ultron_12: Set own game mode to Creative Mode]
+2019-12-24 00:54:15 [SEVERE] Reached end of stream for /190.176.158.122
+2019-12-24 00:54:15 [INFO] zionsXP [/190.176.158.122:50269] lost connection
+2019-12-24 00:54:19 [INFO] [Ultron_12: Teleported Ultron_12 to 1239.5,80.5,699.5]
+2019-12-24 00:54:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 00:55:10 [SEVERE] Reached end of stream for /190.176.158.122
+2019-12-24 00:55:10 [INFO] zionsXP [/190.176.158.122:50272] lost connection
+2019-12-24 00:55:15 [INFO] Stopping server
+2019-12-24 00:55:44 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 00:55:46 [INFO] MCA: Loading mod properties...
+2019-12-24 00:55:46 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-24 00:55:46 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-24 00:55:46 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-24 00:55:46 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 00:55:46 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 00:55:46 [INFO] MCA: Language ID: en_US
+2019-12-24 00:55:46 [INFO] MCA: Loading English...
+2019-12-24 00:55:46 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-24 00:55:46 [INFO] Loading properties
+2019-12-24 00:55:46 [INFO] Default game type: SURVIVAL
+2019-12-24 00:55:46 [INFO] Generating keypair
+2019-12-24 00:55:46 [INFO] Starting Minecraft server on *:25565
+2019-12-24 00:55:46 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-24 00:55:46 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-24 00:55:46 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-24 00:55:46 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-24 00:55:47 [INFO] Preparing level "world"
+2019-12-24 00:55:47 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-24 00:55:47 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 00:55:47 [INFO] Preparing start region for level 0
+2019-12-24 00:55:48 [INFO] Preparing spawn area: 99%
+2019-12-24 00:55:48 [INFO] Done (1.399s)! For help, type "help" or "?"
+2019-12-24 00:55:48 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-24 00:55:49 [INFO] Ultron_12[/127.0.0.1:43572] logged in with entity id 186 at (1231.9811591736434, 69.0, 708.654256963182)
+2019-12-24 00:55:49 [INFO] Ultron_12 joined the game
+2019-12-24 00:55:50 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 00:55:58 [INFO] zionsXP[/190.176.158.122:50276] logged in with entity id 593 at (-630.5, 64.0, 295.5)
+2019-12-24 00:55:58 [INFO] zionsXP joined the game
+2019-12-24 00:56:00 [INFO] MCA: Created new properties folder for the world 'world'.
+2019-12-24 00:56:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 00:56:00 [INFO] MCA: Saved new world properties for world 'world' and player 'zionsXP'.
+2019-12-24 00:56:01 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 00:56:01 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 00:56:23 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 00:56:23 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 00:56:23 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 00:56:40 [INFO] [Ultron_12: Set Ultron_12's spawn point to (1209, 70, 703)]
+2019-12-24 00:56:53 [INFO] [Ultron_12: Set zionsXP's spawn point to (-616, 66, 294)]
+2019-12-24 00:57:01 [INFO] [Ultron_12: Teleported zionsXP to Ultron_12]
+2019-12-24 00:57:06 [INFO] [Ultron_12: Opped zionsXP]
+2019-12-24 00:57:17 [INFO] [zionsXP: Set own game mode to Creative Mode]
+2019-12-24 01:04:23 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:05:01 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:05:08 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:05:08 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:05:23 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:06:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:06:24 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:06:24 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:08:05 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:08:53 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:08:53 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:09:00 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:09:08 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:09:08 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:09:09 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:09:26 [INFO] [Ultron_12: Set zionsXP's game mode to Survival Mode]
+2019-12-24 01:09:35 [INFO] [zionsXP: Set own game mode to Creative Mode]
+2019-12-24 01:10:47 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 01:14:39 [INFO] Ultron_12 lost connection: disconnect.quitting
+2019-12-24 01:14:39 [INFO] Ultron_12 left the game
+2019-12-24 01:17:13 [INFO] zionsXP lost connection: disconnect.quitting
+2019-12-24 01:17:13 [INFO] zionsXP left the game
+2019-12-24 01:23:15 [INFO] Stopping the server
+2019-12-24 01:23:15 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:23:15 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:23:15 [INFO] Stopping server
+2019-12-24 01:23:15 [INFO] Saving players
+2019-12-24 01:23:15 [INFO] Saving worlds
+2019-12-24 01:23:15 [INFO] Saving chunks for level 'world'/Overworld
+2019-12-24 01:23:15 [INFO] Closing listening thread
+2019-12-24 01:23:15 [INFO] Saving chunks for level 'world'/Nether
+2019-12-24 01:23:15 [INFO] Saving chunks for level 'world'/The End
+2019-12-24 01:25:11 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 01:25:14 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:418)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:515)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 8 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 14 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 16 more
+2019-12-24 01:25:14 [SEVERE] This crash report has been saved to: /home/alexis/Documents/Server/Minecraft/Forge/./crash-reports/crash-2019-12-24_01.25.14-server.txt
+2019-12-24 01:28:23 [INFO] Stopping server
+2019-12-24 01:28:23 [INFO] Saving worlds
+2019-12-24 01:30:02 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 01:30:04 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:418)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:515)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 8 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 14 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 16 more
+2019-12-24 01:30:04 [SEVERE] This crash report has been saved to: /home/alexis/Documents/Server/Minecraft/Forge/./crash-reports/crash-2019-12-24_01.30.04-server.txt
+2019-12-24 01:30:08 [INFO] Stopping server
+2019-12-24 01:30:08 [INFO] Saving worlds
+2019-12-24 01:30:22 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 01:30:24 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:418)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:515)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 8 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 14 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 16 more
+2019-12-24 01:30:24 [SEVERE] This crash report has been saved to: /home/alexis/Documents/Server/Minecraft/Forge/./crash-reports/crash-2019-12-24_01.30.24-server.txt
+2019-12-24 01:30:50 [INFO] Stopping server
+2019-12-24 01:30:55 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 01:30:57 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:418)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:515)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 8 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 14 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 16 more
+2019-12-24 01:30:57 [SEVERE] This crash report has been saved to: /home/alexis/Documents/Server/Minecraft/Forge/./crash-reports/crash-2019-12-24_01.30.57-server.txt
+2019-12-24 01:32:22 [INFO] Stopping server
+2019-12-24 01:32:22 [INFO] Saving worlds
+2019-12-24 01:32:27 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 01:32:29 [INFO] MCA: Loading mod properties...
+2019-12-24 01:32:29 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-24 01:32:29 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-24 01:32:29 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-24 01:32:30 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 01:32:30 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 01:32:30 [INFO] MCA: Language ID: en_US
+2019-12-24 01:32:30 [INFO] MCA: Loading English...
+2019-12-24 01:32:30 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-24 01:32:30 [INFO] Loading properties
+2019-12-24 01:32:30 [INFO] Default game type: SURVIVAL
+2019-12-24 01:32:30 [INFO] Generating keypair
+2019-12-24 01:32:30 [INFO] Starting Minecraft server on *:25565
+2019-12-24 01:32:30 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-24 01:32:30 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-24 01:32:30 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-24 01:32:30 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-24 01:32:30 [INFO] Preparing level "world"
+2019-12-24 01:32:31 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-24 01:32:31 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-24 01:32:31 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 01:32:31 [INFO] Preparing start region for level 0
+2019-12-24 01:32:32 [INFO] Preparing spawn area: 7%
+2019-12-24 01:32:33 [INFO] Preparing spawn area: 14%
+2019-12-24 01:32:34 [INFO] Preparing spawn area: 22%
+2019-12-24 01:32:35 [INFO] Preparing spawn area: 31%
+2019-12-24 01:32:36 [INFO] Preparing spawn area: 41%
+2019-12-24 01:32:37 [INFO] Preparing spawn area: 52%
+2019-12-24 01:32:38 [INFO] Preparing spawn area: 67%
+2019-12-24 01:32:39 [INFO] Preparing spawn area: 84%
+2019-12-24 01:32:40 [INFO] Done (9.725s)! For help, type "help" or "?"
+2019-12-24 01:32:40 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-24 01:33:38 [INFO] Ultron_12[/127.0.0.1:44050] logged in with entity id 6569 at (66.5, 70.0, 254.5)
+2019-12-24 01:33:38 [INFO] Ultron_12 joined the game
+2019-12-24 01:33:39 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 01:34:00 [INFO] [Ultron_12: Set own game mode to Creative Mode]
+2019-12-24 01:38:19 [INFO] zionsXP[/190.176.158.122:50771] logged in with entity id 24449 at (75.5, 75.0, 247.5)
+2019-12-24 01:38:19 [INFO] zionsXP joined the game
+2019-12-24 01:38:20 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-24 01:38:29 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 01:39:16 [INFO] Opped zionsXP
+2019-12-24 01:39:35 [INFO] [zionsXP: Set own game mode to Creative Mode]
+2019-12-24 01:40:12 [INFO] [Ultron_12: Teleported Ultron_12 to 800.5,69.5,699.5]
+2019-12-24 01:40:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:40:43 [INFO] [Ultron_12: Teleported Ultron_12 to 80.5,69.5,699.5]
+2019-12-24 01:40:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:42:29 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 01:42:46 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 01:42:49 [INFO] Ultron_12 lost connection: disconnect.endOfStream
+2019-12-24 01:42:49 [INFO] Ultron_12 left the game
+2019-12-24 01:42:58 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 01:43:00 [INFO] Ultron_12 [/127.0.0.1:44084] lost connection
+2019-12-24 01:43:02 [INFO] Ultron_12[/127.0.0.1:44086] logged in with entity id 40856 at (-628.5349100730449, 68.0, -130.67209737442042)
+2019-12-24 01:43:02 [INFO] Ultron_12 joined the game
+2019-12-24 01:43:03 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 01:43:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:44:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:45:01 [INFO] [zionsXP: Teleported zionsXP to Ultron_12]
+2019-12-24 01:45:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:46:52 [INFO] [Ultron_12: Teleported Ultron_12 to 205.5,79.5,248.5]
+2019-12-24 01:46:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:46:57 [INFO] [zionsXP: Set the time to 0]
+2019-12-24 01:47:07 [INFO] [Ultron_12: Teleported Ultron_12 to 2051.5,79.5,2481.5]
+2019-12-24 01:47:17 [INFO] [zionsXP: Teleported zionsXP to 700.5,87.5,298.5]
+2019-12-24 01:47:57 [INFO] [Ultron_12: Teleported Ultron_12 to 20512.5,79.5,2481.5]
+2019-12-24 01:48:35 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 01:49:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:49:42 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 01:49:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:49:55 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 01:49:55 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 01:50:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:50:03 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 01:51:26 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:51:26 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:51:39 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:51:39 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:51:44 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:51:44 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:52:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:52:06 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:52:06 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:53:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:53:02 [INFO] [Ultron_12: Teleported Ultron_12 to 29324.5,69.5,149903.5]
+2019-12-24 01:53:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:53:08 [INFO] [zionsXP: Teleported zionsXP to 987.5,65.5,74.5]
+2019-12-24 01:53:18 [INFO] [Ultron_12: Teleported Ultron_12 to 29.5,69.5,149903.5]
+2019-12-24 01:53:36 [INFO] [Ultron_12: Teleported Ultron_12 to 29.5,69.5,1903.5]
+2019-12-24 01:53:52 [INFO] [zionsXP: Teleported zionsXP to 9876.5,63.5,863.5]
+2019-12-24 01:54:27 [INFO] [zionsXP: Teleported zionsXP to 1.5,67.5,1.5]
+2019-12-24 01:54:27 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:54:44 [WARNING] Ultron_12 moved too quickly! -63.12045805398208,-32.90482120911186,-32.0950089054802 (63.12045805398208, 32.90482120911186, 32.0950089054802)
+2019-12-24 01:54:51 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 01:54:52 [INFO] Ultron_12 lost connection: disconnect.endOfStream
+2019-12-24 01:54:52 [INFO] Ultron_12 left the game
+2019-12-24 01:55:22 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:55:43 [INFO] Stopping the server
+2019-12-24 01:56:12 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:57:42 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 01:57:48 [INFO] MCA: Loading mod properties...
+2019-12-24 01:57:48 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-24 01:57:48 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-24 01:57:48 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-24 01:57:48 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 01:57:48 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 01:57:48 [INFO] MCA: Language ID: en_US
+2019-12-24 01:57:48 [INFO] MCA: Loading English...
+2019-12-24 01:57:48 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-24 01:57:49 [INFO] Loading properties
+2019-12-24 01:57:49 [INFO] Default game type: SURVIVAL
+2019-12-24 01:57:49 [INFO] Generating keypair
+2019-12-24 01:57:51 [INFO] Starting Minecraft server on *:25565
+2019-12-24 01:57:51 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-24 01:57:51 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-24 01:57:51 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-24 01:57:51 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-24 01:57:51 [INFO] Preparing level "world"
+2019-12-24 01:57:52 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-24 01:57:52 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-24 01:57:52 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 01:57:52 [INFO] Preparing start region for level 0
+2019-12-24 01:57:53 [INFO] Preparing spawn area: 13%
+2019-12-24 01:57:54 [INFO] Done (2.674s)! For help, type "help" or "?"
+2019-12-24 01:57:54 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-24 01:58:01 [INFO] Ultron_12[/127.0.0.1:44124] logged in with entity id 356 at (193.18169769601778, 102.74861783983035, 1952.7378028894855)
+2019-12-24 01:58:01 [INFO] Ultron_12 joined the game
+2019-12-24 01:58:04 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 01:58:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 01:58:04 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 01:58:13 [INFO] zionsXP[/190.176.158.122:50803] logged in with entity id 3572 at (71.37559056806602, 65.904149094818, -38.957800860247644)
+2019-12-24 01:58:13 [INFO] zionsXP joined the game
+2019-12-24 01:58:14 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-24 01:59:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 01:59:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:00:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 02:00:16 [INFO] [zionsXP: Teleported zionsXP to 400.5,67.5,500.5]
+2019-12-24 02:00:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:01:03 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 02:01:06 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 02:01:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:01:31 [INFO] Ultron_12 lost connection: disconnect.genericReason
+2019-12-24 02:01:31 [INFO] Ultron_12 left the game
+2019-12-24 02:02:16 [SEVERE] Reached end of stream for /190.176.158.122
+2019-12-24 02:06:24 [INFO] Starting minecraft server version 1.6.4
+2019-12-24 02:06:27 [INFO] MCA: Loading mod properties...
+2019-12-24 02:06:27 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-24 02:06:27 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-24 02:06:27 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-24 02:06:27 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 02:06:27 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-24 02:06:27 [INFO] MCA: Language ID: en_US
+2019-12-24 02:06:27 [INFO] MCA: Loading English...
+2019-12-24 02:06:27 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-24 02:06:27 [INFO] Loading properties
+2019-12-24 02:06:27 [INFO] Default game type: SURVIVAL
+2019-12-24 02:06:27 [INFO] Generating keypair
+2019-12-24 02:06:28 [INFO] Starting Minecraft server on *:25565
+2019-12-24 02:06:28 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-24 02:06:28 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-24 02:06:28 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-24 02:06:28 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-24 02:06:28 [INFO] Preparing level "world"
+2019-12-24 02:06:29 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-24 02:06:29 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-24 02:06:29 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 02:06:29 [INFO] Preparing start region for level 0
+2019-12-24 02:06:30 [INFO] Preparing spawn area: 36%
+2019-12-24 02:06:30 [INFO] Done (1.982s)! For help, type "help" or "?"
+2019-12-24 02:06:30 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-24 02:06:43 [INFO] zionsXP[/190.176.158.122:50829] logged in with entity id 301 at (349.61956195816714, 70.0, 763.7448934789122)
+2019-12-24 02:06:43 [INFO] zionsXP joined the game
+2019-12-24 02:06:45 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-24 02:06:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:07:48 [INFO] Ultron_12[/127.0.0.1:44138] logged in with entity id 5329 at (622.9912179342423, 85.60384465494457, 2279.9884991507192)
+2019-12-24 02:07:48 [INFO] Ultron_12 joined the game
+2019-12-24 02:07:49 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 02:07:49 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 02:07:54 [INFO] [zionsXP: Teleported zionsXP to 43278.5,60.5,32123.5]
+2019-12-24 02:08:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:08:04 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 02:08:21 [INFO] [Ultron_12: Teleported Ultron_12 to 293812.5,60.5,7823.5]
+2019-12-24 02:08:54 [INFO] [Ultron_12: Teleported Ultron_12 to 129.5,60.5,12938.5]
+2019-12-24 02:09:24 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 02:10:07 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 02:10:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:10:16 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 02:10:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:10:26 [INFO] [zionsXP: Teleported zionsXP to 333.5,45.5,342.5]
+2019-12-24 02:10:37 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-24 02:11:06 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 02:11:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:12:00 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 02:12:00 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 02:12:03 [INFO] [zionsXP: Teleported zionsXP to Ultron_12]
+2019-12-24 02:12:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:13:14 [INFO] Ultron_12 lost connection: disconnect.quitting
+2019-12-24 02:13:14 [INFO] Ultron_12 left the game
+2019-12-24 02:14:00 [INFO] [zionsXP: Teleported zionsXP to 3000000.5,56.5,48334.5]
+2019-12-24 02:14:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:14:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:14:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:15:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-24 02:16:14 [INFO] [zionsXP: Teleported zionsXP to -199.5,67.5,-23444.5]
+2019-12-24 02:16:34 [INFO] [zionsXP: Teleported zionsXP to -499.5,76.5,3432.5]
+2019-12-24 02:16:45 [INFO] [zionsXP: Set the time to 0]
+2019-12-24 02:16:52 [INFO] You must specify which player you wish to perform this action on.
+2019-12-24 02:17:02 [INFO] You must specify which player you wish to perform this action on.
+2019-12-24 02:17:07 [INFO] Ultron_12[/127.0.0.1:44148] logged in with entity id 29451 at (885.9634956625263, 86.91031740422856, 292.71107785705885)
+2019-12-24 02:17:07 [INFO] Ultron_12 joined the game
+2019-12-24 02:17:17 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-24 02:17:17 [INFO] [zionsXP: Set the time to 0]
+2019-12-24 02:17:18 [INFO] You must specify which player you wish to perform this action on.
+2019-12-24 02:17:18 [INFO] You must specify which player you wish to perform this action on.
+2019-12-24 02:17:49 [INFO] Stopping the server
+2019-12-24 02:18:41 [INFO] zionsXP lost connection: disconnect.quitting
+2019-12-24 02:18:41 [INFO] zionsXP left the game
+2019-12-24 02:18:59 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-24 02:19:01 [INFO] Ultron_12 lost connection: disconnect.endOfStream
+2019-12-24 02:19:01 [INFO] Ultron_12 left the game
+2019-12-24 02:19:26 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-24 02:19:26 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-24 02:19:26 [INFO] Stopping server
+2019-12-24 02:19:26 [INFO] Saving players
+2019-12-24 02:19:26 [INFO] Saving worlds
+2019-12-24 02:19:26 [INFO] Saving chunks for level 'world'/Overworld
+2019-12-24 02:19:26 [INFO] Closing listening thread
+2019-12-24 02:19:30 [INFO] Saving chunks for level 'world'/Nether
+2019-12-24 02:19:30 [INFO] Saving chunks for level 'world'/The End
+2019-12-25 18:37:52 [INFO] Starting minecraft server version 1.6.4
+2019-12-25 18:37:56 [INFO] MCA: Loading mod properties...
+2019-12-25 18:37:56 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-25 18:37:56 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-25 18:37:56 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-25 18:37:56 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 18:37:56 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 18:37:56 [INFO] MCA: Language ID: en_US
+2019-12-25 18:37:56 [INFO] MCA: Loading English...
+2019-12-25 18:37:56 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-25 18:37:57 [INFO] Loading properties
+2019-12-25 18:37:57 [INFO] Default game type: SURVIVAL
+2019-12-25 18:37:57 [INFO] Generating keypair
+2019-12-25 18:37:57 [INFO] Starting Minecraft server on *:25565
+2019-12-25 18:37:57 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-25 18:37:57 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-25 18:37:57 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-25 18:37:57 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-25 18:37:58 [INFO] Preparing level "world"
+2019-12-25 18:37:58 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-25 18:37:58 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 18:37:58 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 18:37:58 [INFO] Preparing start region for level 0
+2019-12-25 18:37:59 [INFO] Preparing spawn area: 6%
+2019-12-25 18:38:00 [INFO] Preparing spawn area: 17%
+2019-12-25 18:38:01 [INFO] Preparing spawn area: 33%
+2019-12-25 18:38:02 [INFO] Preparing spawn area: 51%
+2019-12-25 18:38:03 [INFO] Preparing spawn area: 65%
+2019-12-25 18:38:04 [INFO] Preparing spawn area: 80%
+2019-12-25 18:38:05 [INFO] Preparing spawn area: 97%
+2019-12-25 18:38:06 [INFO] Done (7.954s)! For help, type "help" or "?"
+2019-12-25 18:38:06 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-25 18:38:13 [INFO] Ultron_12[/127.0.0.1:54580] logged in with entity id 1375 at (-143.5, 68.0, 253.5)
+2019-12-25 18:38:13 [INFO] Ultron_12 joined the game
+2019-12-25 18:38:14 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 18:40:11 [INFO] Ultron_12 lost connection: disconnect.quitting
+2019-12-25 18:40:11 [INFO] Ultron_12 left the game
+2019-12-25 18:40:15 [INFO] Stopping the server
+2019-12-25 18:40:15 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 18:40:15 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-25 18:40:15 [INFO] Stopping server
+2019-12-25 18:40:15 [INFO] Saving players
+2019-12-25 18:40:15 [INFO] Saving worlds
+2019-12-25 18:40:15 [INFO] Saving chunks for level 'world'/Overworld
+2019-12-25 18:40:15 [INFO] Closing listening thread
+2019-12-25 18:40:15 [INFO] Saving chunks for level 'world'/Nether
+2019-12-25 18:40:15 [INFO] Saving chunks for level 'world'/The End
+2019-12-25 18:40:15 [INFO] Stopping server
+2019-12-25 18:55:03 [INFO] Starting minecraft server version 1.6.4
+2019-12-25 18:55:07 [SEVERE] Encountered an unexpected exception NoSuchMethodError
+java.lang.NoSuchMethodError: net.minecraftforge.common.EnumHelper.addArmorMaterial(Ljava/lang/String;I[II)Lnet/minecraft/item/BehaviorDispenseArmor;
+	at jsut.amm.ArmorMovement.<clinit>(ArmorMovement.java:46)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:462)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:511)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+2019-12-25 18:55:07 [SEVERE] This crash report has been saved to: /home/alexis/Documents/Server/Minecraft/Forge/./crash-reports/crash-2019-12-25_18.55.07-server.txt
+2019-12-25 19:03:37 [INFO] Stopping server
+2019-12-25 19:08:46 [INFO] Starting minecraft server version 1.6.4
+2019-12-25 19:08:57 [INFO] MCA: Loading mod properties...
+2019-12-25 19:08:57 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-25 19:08:57 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-25 19:08:57 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-25 19:08:58 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 19:08:58 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 19:08:58 [INFO] MCA: Language ID: en_US
+2019-12-25 19:08:58 [INFO] MCA: Loading English...
+2019-12-25 19:08:58 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-25 19:09:01 [INFO] Loading properties
+2019-12-25 19:09:01 [INFO] Default game type: SURVIVAL
+2019-12-25 19:09:01 [INFO] Generating keypair
+2019-12-25 19:09:02 [INFO] Starting Minecraft server on *:25565
+2019-12-25 19:09:02 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-25 19:09:02 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-25 19:09:02 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-25 19:09:02 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-25 19:09:07 [INFO] Preparing level "world"
+2019-12-25 19:09:15 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-25 19:09:15 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 19:09:15 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 19:09:16 [INFO] Preparing start region for level 0
+2019-12-25 19:09:17 [INFO] Preparing spawn area: 0%
+2019-12-25 19:09:19 [INFO] Preparing spawn area: 0%
+2019-12-25 19:09:20 [INFO] Preparing spawn area: 6%
+2019-12-25 19:09:21 [INFO] Preparing spawn area: 42%
+2019-12-25 19:09:23 [INFO] Preparing spawn area: 64%
+2019-12-25 19:09:24 [INFO] Preparing spawn area: 84%
+2019-12-25 19:09:25 [INFO] Done (17.440s)! For help, type "help" or "?"
+2019-12-25 19:09:25 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-25 19:10:20 [INFO] Ultron_12[/127.0.0.1:56456] logged in with entity id 363 at (-198.18458597031758, 64.0, 249.53673987429923)
+2019-12-25 19:10:21 [INFO] Ultron_12 joined the game
+2019-12-25 19:10:23 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 19:10:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 19:12:00 [INFO] Disconnecting zionsXP [/190.176.158.122:51110]: The server requires mods that are absent or out of date on your client
+2019-12-25 19:12:22 [INFO] Disconnecting zionsXP [/190.176.158.122:51122]: The server requires mods that are absent or out of date on your client
+2019-12-25 19:12:34 [INFO] Ultron_12 lost connection: disconnect.quitting
+2019-12-25 19:12:34 [INFO] Ultron_12 left the game
+2019-12-25 19:12:40 [INFO] Stopping the server
+2019-12-25 19:12:40 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 19:12:40 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-25 19:12:40 [INFO] Stopping server
+2019-12-25 19:12:40 [INFO] Saving players
+2019-12-25 19:12:40 [INFO] Saving worlds
+2019-12-25 19:12:40 [INFO] Saving chunks for level 'world'/Overworld
+2019-12-25 19:12:40 [INFO] Closing listening thread
+2019-12-25 19:12:40 [INFO] Saving chunks for level 'world'/Nether
+2019-12-25 19:12:40 [INFO] Saving chunks for level 'world'/The End
+2019-12-25 19:12:41 [INFO] Stopping server
+2019-12-25 19:12:41 [INFO] Saving players
+2019-12-25 19:12:41 [INFO] Saving worlds
+2019-12-25 19:20:26 [INFO] Starting minecraft server version 1.6.4
+2019-12-25 19:20:30 [INFO] MCA: Loading mod properties...
+2019-12-25 19:20:30 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-25 19:20:30 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-25 19:20:30 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-25 19:20:30 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 19:20:30 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 19:20:30 [INFO] MCA: Language ID: en_US
+2019-12-25 19:20:30 [INFO] MCA: Loading English...
+2019-12-25 19:20:30 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-25 19:20:31 [INFO] Loading properties
+2019-12-25 19:20:31 [INFO] Default game type: SURVIVAL
+2019-12-25 19:20:31 [INFO] Generating keypair
+2019-12-25 19:20:31 [INFO] Starting Minecraft server on *:25565
+2019-12-25 19:20:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-25 19:20:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-25 19:20:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-25 19:20:31 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-25 19:20:31 [SEVERE] Encountered an unexpected exception LoaderException
+cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: net/minecraft/client/entity/EntityClientPlayerMP
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:156)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:700)
+	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:107)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:142)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/entity/EntityClientPlayerMP
+	at jsut.amm.ArmorMovement.preInit(ArmorMovement.java:72)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:699)
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.entity.EntityClientPlayerMP
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 32 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:178)
+	... 34 more
+2019-12-25 19:20:32 [SEVERE] This crash report has been saved to: /home/alexis/Documents/Server/Minecraft/Forge/./crash-reports/crash-2019-12-25_19.20.31-server.txt
+2019-12-25 19:22:58 [INFO] Stopping server
+2019-12-25 19:23:02 [INFO] Starting minecraft server version 1.6.4
+2019-12-25 19:23:05 [INFO] MCA: Loading mod properties...
+2019-12-25 19:23:05 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-25 19:23:05 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-25 19:23:05 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-25 19:23:06 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 19:23:06 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 19:23:06 [INFO] MCA: Language ID: en_US
+2019-12-25 19:23:06 [INFO] MCA: Loading English...
+2019-12-25 19:23:06 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-25 19:23:06 [INFO] Loading properties
+2019-12-25 19:23:06 [INFO] Default game type: SURVIVAL
+2019-12-25 19:23:06 [INFO] Generating keypair
+2019-12-25 19:23:07 [INFO] Starting Minecraft server on *:25565
+2019-12-25 19:23:07 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-25 19:23:07 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-25 19:23:07 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-25 19:23:07 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-25 19:23:07 [INFO] Preparing level "world"
+2019-12-25 19:23:07 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-25 19:23:07 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 19:23:07 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 19:23:07 [INFO] Preparing start region for level 0
+2019-12-25 19:23:08 [INFO] Preparing spawn area: 84%
+2019-12-25 19:23:08 [INFO] Done (1.427s)! For help, type "help" or "?"
+2019-12-25 19:23:08 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-25 19:23:22 [INFO] Ultron_12[/127.0.0.1:56640] logged in with entity id 330 at (-272.3947774292198, 68.0, 174.15071275542465)
+2019-12-25 19:23:23 [INFO] Ultron_12 joined the game
+2019-12-25 19:23:24 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 19:23:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 19:50:37 [INFO] zionsXP[/190.176.176.116:55353] logged in with entity id 34466 at (-139.5, 66.0, 259.5)
+2019-12-25 19:50:37 [INFO] zionsXP joined the game
+2019-12-25 19:50:38 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 19:50:40 [INFO] zionsXP lost connection: disconnect.genericReason
+2019-12-25 19:50:40 [INFO] zionsXP left the game
+2019-12-25 19:52:07 [INFO] zionsXP[/190.176.176.116:55725] logged in with entity id 36202 at (-139.5, 66.0, 259.5)
+2019-12-25 19:52:07 [INFO] zionsXP joined the game
+2019-12-25 19:52:08 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 19:52:10 [INFO] zionsXP lost connection: disconnect.genericReason
+2019-12-25 19:52:10 [INFO] zionsXP left the game
+2019-12-25 19:54:34 [INFO] zionsXP[/190.176.176.116:56329] logged in with entity id 39060 at (-139.5, 66.0, 259.5)
+2019-12-25 19:54:34 [INFO] zionsXP joined the game
+2019-12-25 19:54:40 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 19:54:40 [INFO] zionsXP lost connection: disconnect.genericReason
+2019-12-25 19:54:40 [INFO] zionsXP left the game
+2019-12-25 19:54:40 [INFO] zionsXP lost connection: disconnect.genericReason
+2019-12-25 19:54:40 [INFO] zionsXP left the game
+2019-12-25 19:54:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 19:58:34 [INFO] zionsXP[/190.176.176.116:57105] logged in with entity id 43744 at (-139.5, 66.0, 259.5)
+2019-12-25 19:58:34 [INFO] zionsXP joined the game
+2019-12-25 19:58:35 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 19:58:37 [INFO] zionsXP lost connection: disconnect.genericReason
+2019-12-25 19:58:37 [INFO] zionsXP left the game
+2019-12-25 19:59:24 [INFO] Ultron_12 lost connection: disconnect.quitting
+2019-12-25 19:59:24 [INFO] Ultron_12 left the game
+2019-12-25 20:00:45 [INFO] Ultron_12[/127.0.0.1:56708] logged in with entity id 44590 at (-194.42660743425398, 40.0, 117.26788737383774)
+2019-12-25 20:00:45 [INFO] Ultron_12 joined the game
+2019-12-25 20:00:47 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 20:01:10 [INFO] Unknown command. Try /help for a list of commands
+2019-12-25 20:01:11 [INFO] Stopping the server
+2019-12-25 20:01:11 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 20:01:11 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-25 20:01:11 [INFO] Stopping server
+2019-12-25 20:01:11 [INFO] Saving players
+2019-12-25 20:01:11 [INFO] Closing listening thread
+2019-12-25 20:01:11 [INFO] Ultron_12 left the game
+2019-12-25 20:01:11 [INFO] Saving worlds
+2019-12-25 20:01:11 [INFO] Saving chunks for level 'world'/Overworld
+2019-12-25 20:01:11 [SEVERE] Reached end of stream for /127.0.0.1
+2019-12-25 20:01:11 [INFO] Saving chunks for level 'world'/Nether
+2019-12-25 20:01:11 [INFO] Saving chunks for level 'world'/The End
+2019-12-25 20:01:24 [INFO] Starting minecraft server version 1.6.4
+2019-12-25 20:01:30 [INFO] MCA: Loading mod properties...
+2019-12-25 20:01:30 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-25 20:01:30 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-25 20:01:30 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-25 20:01:30 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 20:01:30 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-25 20:01:30 [INFO] MCA: Language ID: en_US
+2019-12-25 20:01:30 [INFO] MCA: Loading English...
+2019-12-25 20:01:31 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-25 20:01:31 [INFO] Loading properties
+2019-12-25 20:01:31 [INFO] Default game type: SURVIVAL
+2019-12-25 20:01:31 [INFO] Generating keypair
+2019-12-25 20:01:32 [INFO] Starting Minecraft server on *:25565
+2019-12-25 20:01:32 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-25 20:01:32 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-25 20:01:32 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-25 20:01:32 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-25 20:01:32 [INFO] Preparing level "world"
+2019-12-25 20:01:33 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-25 20:01:33 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 20:01:33 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 20:01:33 [INFO] Preparing start region for level 0
+2019-12-25 20:01:34 [INFO] Preparing spawn area: 66%
+2019-12-25 20:01:34 [INFO] Done (1.999s)! For help, type "help" or "?"
+2019-12-25 20:01:34 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-25 20:01:41 [INFO] Ultron_12[/127.0.0.1:56732] logged in with entity id 325 at (-197.08377925246114, 40.0, 113.54828154471144)
+2019-12-25 20:01:41 [INFO] Ultron_12 joined the game
+2019-12-25 20:01:43 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 20:01:55 [INFO] zionsXP[/190.176.176.116:57683] logged in with entity id 492 at (-139.5, 66.0, 259.5)
+2019-12-25 20:01:55 [INFO] zionsXP joined the game
+2019-12-25 20:01:56 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-25 20:06:15 [INFO] Ultron_12 was blown up by Creeper
+2019-12-25 20:06:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 20:20:15 [INFO] Ultron_12 lost connection: disconnect.quitting
+2019-12-25 20:20:15 [INFO] Ultron_12 left the game
+2019-12-25 20:21:45 [INFO] Ultron_12[/127.0.0.1:56764] logged in with entity id 21907 at (3.300000011920921, 74.0, 50.56563371600366)
+2019-12-25 20:21:45 [INFO] Ultron_12 joined the game
+2019-12-25 20:21:47 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-25 20:21:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 20:55:55 [INFO] Ultron_12 was slain by Enderman
+2019-12-25 20:57:09 [INFO] Ultron_12 fell from a high place
+2019-12-25 21:19:35 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 21:24:54 [INFO] <Ultron_12> Tengo Red Bull, ¿Vos?
+2019-12-25 21:25:04 [INFO] <zionsXP> igual
+2019-12-25 21:25:13 [INFO] <Ultron_12> La otra es con monedas de hierro.
+2019-12-25 21:25:30 [INFO] <Ultron_12> Durmamos.
+2019-12-25 21:25:57 [INFO] <Ultron_12> Dale, jefe.
+2019-12-25 21:38:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:39:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:39:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:44:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:47:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:48:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:48:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:53:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:53:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:54:32 [INFO] Ultron_12 was slain by Spider
+2019-12-25 21:55:21 [INFO] Ultron_12 was shot by Skeleton
+2019-12-25 21:55:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:57:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:57:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:57:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:57:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:58:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 21:58:14 [INFO] Ultron_12 was slain by Enderman
+2019-12-25 21:58:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:00:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:00:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:27:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:28:19 [INFO] Ultron_12 was doomed to fall by Spider
+2019-12-25 22:28:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:30:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:38:23 [INFO] Ultron_12 was shot by Skeleton
+2019-12-25 22:38:31 [INFO] [Ultron_12: Set own game mode to Creative Mode]
+2019-12-25 22:38:33 [INFO] [Ultron_12: Teleported Ultron_12 to zionsXP]
+2019-12-25 22:42:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:44:49 [INFO] Ultron_12 fell out of the world
+2019-12-25 22:45:53 [INFO] [Ultron_12: Set own game mode to Survival Mode]
+2019-12-25 22:51:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:52:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:52:41 [INFO] [zionsXP: Set own game mode to Creative Mode]
+2019-12-25 22:53:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:54:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:54:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:54:55 [INFO] [zionsXP: Set own game mode to Survival Mode]
+2019-12-25 22:55:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:55:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:56:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:56:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:56:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:58:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 22:59:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:00:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:00:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:01:41 [INFO] Ultron_12 was shot by Skeleton
+2019-12-25 23:02:31 [INFO] [Ultron_12: Set own game mode to Creative Mode]
+2019-12-25 23:04:46 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:04:46 [INFO] [Ultron_12: Set own game mode to Survival Mode]
+2019-12-25 23:04:54 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:05:27 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-25 23:05:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:05:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:06:27 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:07:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:07:25 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:07:25 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:07:37 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:08:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:09:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:10:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:10:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:11:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:12:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:13:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:13:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:13:16 [INFO] Ultron_12 lost connection: disconnect.quitting
+2019-12-25 23:13:16 [INFO] Ultron_12 left the game
+2019-12-25 23:14:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:15:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:15:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:16:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:16:00 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:16:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-25 23:21:31 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-25 23:25:15 [INFO] <zionsXP> che me cambio a creativo para poblar un poco mas el pueblo
+2019-12-25 23:25:20 [INFO] [zionsXP: Set own game mode to Creative Mode]
+2019-12-25 23:29:28 [INFO] [zionsXP: Set own game mode to Survival Mode]
+2019-12-25 23:43:01 [INFO] [zionsXP: Set own game mode to Creative Mode]
+2019-12-25 23:48:35 [INFO] [zionsXP: Set own game mode to Survival Mode]
+2019-12-25 23:55:02 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-26 00:24:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 00:38:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 00:53:50 [INFO] [zionsXP: Set own game mode to Creative Mode]
+2019-12-26 01:02:30 [INFO] [zionsXP: Set own game mode to Survival Mode]
+2019-12-26 01:04:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:05:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:06:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:06:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:10:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:12:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:32:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:33:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:34:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:35:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:38:10 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-26 01:38:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:38:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:39:48 [INFO] Ultron_12[/127.0.0.1:57884] logged in with entity id 410192 at (-204.5, 64.02159847259522, 109.5)
+2019-12-26 01:39:49 [INFO] Ultron_12 joined the game
+2019-12-26 01:39:54 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-26 01:39:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:40:24 [INFO] Ultron_12 lost connection: disconnect.genericReason
+2019-12-26 01:40:24 [INFO] Ultron_12 left the game
+2019-12-26 01:41:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:42:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:45:54 [INFO] Ultron_12[/127.0.0.1:57948] logged in with entity id 413859 at (-204.5, 64.02159847259522, 109.5)
+2019-12-26 01:45:54 [INFO] Ultron_12 joined the game
+2019-12-26 01:45:56 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-26 01:45:57 [INFO] Ultron_12 lost connection: disconnect.genericReason
+2019-12-26 01:45:57 [INFO] Ultron_12 left the game
+2019-12-26 01:49:40 [INFO] Ultron_12[/127.0.0.1:58026] logged in with entity id 420437 at (-204.5, 64.02159847259522, 109.5)
+2019-12-26 01:49:40 [INFO] Ultron_12 joined the game
+2019-12-26 01:49:43 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-26 01:49:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:50:04 [INFO] Ultron_12 lost connection: disconnect.genericReason
+2019-12-26 01:50:04 [INFO] Ultron_12 left the game
+2019-12-26 01:50:35 [INFO] Stopping the server
+2019-12-26 01:50:35 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-26 01:50:35 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-26 01:50:36 [INFO] Stopping server
+2019-12-26 01:50:36 [INFO] Saving players
+2019-12-26 01:50:36 [INFO] Closing listening thread
+2019-12-26 01:50:36 [SEVERE] Reached end of stream for /190.176.176.116
+2019-12-26 01:50:36 [INFO] zionsXP left the game
+2019-12-26 01:50:36 [INFO] Saving worlds
+2019-12-26 01:50:36 [INFO] Saving chunks for level 'world'/Overworld
+2019-12-26 01:50:36 [INFO] Saving chunks for level 'world'/Nether
+2019-12-26 01:50:36 [INFO] Saving chunks for level 'world'/The End
+2019-12-26 01:50:39 [INFO] Stopping server
+2019-12-26 01:50:39 [INFO] Saving players
+2019-12-26 01:50:39 [INFO] Saving worlds
+2019-12-26 01:50:53 [INFO] Starting minecraft server version 1.6.4
+2019-12-26 01:51:02 [INFO] MCA: Loading mod properties...
+2019-12-26 01:51:02 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-26 01:51:02 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-26 01:51:02 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-26 01:51:02 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-26 01:51:02 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-26 01:51:02 [INFO] MCA: Language ID: en_US
+2019-12-26 01:51:02 [INFO] MCA: Loading English...
+2019-12-26 01:51:02 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-26 01:51:03 [INFO] Loading properties
+2019-12-26 01:51:03 [INFO] Default game type: SURVIVAL
+2019-12-26 01:51:03 [INFO] Generating keypair
+2019-12-26 01:51:04 [INFO] Starting Minecraft server on *:25565
+2019-12-26 01:51:04 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-26 01:51:04 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-26 01:51:04 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-26 01:51:04 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-26 01:51:04 [INFO] Preparing level "world"
+2019-12-26 01:51:05 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-26 01:51:05 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-26 01:51:05 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-26 01:51:05 [INFO] Preparing start region for level 0
+2019-12-26 01:51:06 [INFO] Preparing spawn area: 92%
+2019-12-26 01:51:06 [INFO] Done (1.563s)! For help, type "help" or "?"
+2019-12-26 01:51:06 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-26 01:51:06 [INFO] zionsXP[/190.176.176.116:53729] logged in with entity id 316 at (30.022016796415123, 75.0, 53.66843852194403)
+2019-12-26 01:51:07 [INFO] zionsXP joined the game
+2019-12-26 01:51:09 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-26 01:51:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:52:24 [INFO] Ultron_12[/127.0.0.1:58104] logged in with entity id 866 at (-204.5, 64.02159847259522, 109.5)
+2019-12-26 01:52:24 [INFO] Ultron_12 joined the game
+2019-12-26 01:52:26 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-26 01:52:27 [INFO] Ultron_12 lost connection: disconnect.genericReason
+2019-12-26 01:52:27 [INFO] Ultron_12 left the game
+2019-12-26 01:52:49 [INFO] Stopping the server
+2019-12-26 01:52:50 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-26 01:52:50 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-26 01:52:50 [INFO] Stopping server
+2019-12-26 01:52:50 [INFO] Saving players
+2019-12-26 01:52:50 [INFO] Closing listening thread
+2019-12-26 01:52:50 [INFO] zionsXP left the game
+2019-12-26 01:52:50 [INFO] Saving worlds
+2019-12-26 01:52:50 [INFO] Saving chunks for level 'world'/Overworld
+2019-12-26 01:52:50 [INFO] Saving chunks for level 'world'/Nether
+2019-12-26 01:52:50 [INFO] Saving chunks for level 'world'/The End
+2019-12-26 01:52:50 [SEVERE] Reached end of stream for /190.176.176.116
+2019-12-26 01:52:50 [INFO] Stopping server
+2019-12-26 01:58:37 [INFO] Starting minecraft server version 1.6.4
+2019-12-26 01:58:44 [INFO] MCA: Loading mod properties...
+2019-12-26 01:58:44 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2019-12-26 01:58:44 [INFO] MCA:  -MCA-3.6.0_MC-1.6.4.zip <YES>
+2019-12-26 01:58:44 [INFO] MCA: Loading skins from data file: MCA-3.6.0_MC-1.6.4.zip...
+2019-12-26 01:58:44 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-26 01:58:44 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2019-12-26 01:58:44 [INFO] MCA: Language ID: en_US
+2019-12-26 01:58:44 [INFO] MCA: Loading English...
+2019-12-26 01:58:44 [INFO] MCA: Loaded 1642 phrases in English.
+2019-12-26 01:58:45 [INFO] Loading properties
+2019-12-26 01:58:45 [INFO] Default game type: SURVIVAL
+2019-12-26 01:58:45 [INFO] Generating keypair
+2019-12-26 01:58:46 [INFO] Starting Minecraft server on *:25565
+2019-12-26 01:58:46 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-12-26 01:58:46 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-12-26 01:58:46 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-12-26 01:58:46 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-12-26 01:58:46 [INFO] Preparing level "world"
+2019-12-26 01:58:47 [INFO] MCA: Loading world properties from /home/alexis/Documents/Server/Minecraft/Forge/config/MCA/ServerWorlds/world...
+2019-12-26 01:58:47 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-26 01:58:47 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-26 01:58:47 [INFO] Preparing start region for level 0
+2019-12-26 01:58:48 [INFO] Preparing spawn area: 76%
+2019-12-26 01:58:49 [INFO] Done (2.525s)! For help, type "help" or "?"
+2019-12-26 01:58:49 [INFO] MCA: Minecraft Comes Alive is running.
+2019-12-26 01:59:34 [INFO] Ultron_12[/127.0.0.1:43390] logged in with entity id 456 at (-204.5, 64.02159847259522, 109.5)
+2019-12-26 01:59:35 [INFO] Ultron_12 joined the game
+2019-12-26 01:59:36 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-26 01:59:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 01:59:37 [INFO] Ultron_12 lost connection: disconnect.genericReason
+2019-12-26 01:59:37 [INFO] Ultron_12 left the game
+2019-12-26 02:02:22 [INFO] Ultron_12[/127.0.0.1:43452] logged in with entity id 782 at (-204.5, 64.02159847259522, 109.5)
+2019-12-26 02:02:22 [INFO] Ultron_12 joined the game
+2019-12-26 02:02:24 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Ultron_12'.
+2019-12-26 02:02:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:03:01 [INFO] zionsXP[/190.176.176.116:53875] logged in with entity id 1096 at (24.55382359674512, 75.0, 48.46864342749863)
+2019-12-26 02:03:01 [INFO] zionsXP joined the game
+2019-12-26 02:03:04 [INFO] MCA: Loaded existing world properties for world 'world' and player 'zionsXP'.
+2019-12-26 02:03:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:03:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:04:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:04:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:07:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:07:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:08:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:08:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:09:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:09:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:10:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:10:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:10:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:12:40 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-26 02:15:10 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-26 02:18:37 [INFO] [Ultron_12: Changing to clear weather]
+2019-12-26 02:21:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:22:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:27:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:27:46 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-26 02:28:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:29:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:29:38 [INFO] Ultron_12 lost connection: disconnect.quitting
+2019-12-26 02:29:38 [INFO] Ultron_12 left the game
+2019-12-26 02:30:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-26 02:34:43 [INFO] Stopping the server
+2019-12-26 02:34:44 [INFO] MCA: Saved world properties for player zionsXP in world world
+2019-12-26 02:34:44 [INFO] MCA: Saved world properties for player Ultron_12 in world world
+2019-12-26 02:34:44 [INFO] Stopping server
+2019-12-26 02:34:47 [INFO] Saving players
+2019-12-26 02:34:48 [SEVERE] Reached end of stream for /190.176.176.116
+2019-12-26 02:34:52 [INFO] Closing listening thread
+2019-12-26 02:34:52 [INFO] zionsXP left the game
+2019-12-26 02:34:52 [INFO] Saving worlds
+2019-12-26 02:34:52 [INFO] Saving chunks for level 'world'/Overworld
+2019-12-26 02:34:52 [INFO] Saving chunks for level 'world'/Nether
+2019-12-26 02:34:52 [INFO] Saving chunks for level 'world'/The End
+2019-12-26 02:34:56 [INFO] Stopping server
+2019-12-26 02:34:56 [INFO] Saving players
+2019-12-26 02:34:56 [INFO] Saving worlds
